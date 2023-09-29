@@ -6,9 +6,14 @@
 
 Projeto que consome a [OMDb API](https://www.omdbapi.com/), um banco de dados sobre filmes.
 
-## Aplicação ⚙️
+## ATENÇÃO ⚠️
 
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)](https://here-cinesearch.netlify.app/)
+Foi uma aplicação para estudos.
+
+Por conta de uma **falha**, onde a **chave da API** no arquivo "API_KEY.js" ficava **exposta** à qualquer usuário, esta aplicação não serve para produção.
+
+Não será corrigida, o intuito era justamente passar por dificuldades,
+e não usar muitos artifícios, como variáveis de ambientes etc.
 
 ## Começando 🚀
 
@@ -29,6 +34,7 @@ Projeto que consome a [OMDb API](https://www.omdbapi.com/), um banco de dados so
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)
 
 ## Screenshots 🖼️
 
