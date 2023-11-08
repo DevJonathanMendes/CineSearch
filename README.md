@@ -10,7 +10,7 @@ Projeto que consome a [OMDb API](https://www.omdbapi.com/), um banco de dados so
 
 Foi uma aplicação para estudos.
 
-Por conta de uma **falha**, onde a **chave da API** no arquivo "API_KEY.js" ficava **exposta** à qualquer usuário, esta aplicação não serve para produção.
+Por conta de uma **vulnerabilidade**, onde a **chave da API** no arquivo "API_KEY.js" ficava **exposta** à qualquer usuário, esta aplicação não serve para produção.
 
 Não será corrigida, o intuito era justamente passar por dificuldades,
 e não usar muitos artifícios, como variáveis de ambientes etc.
